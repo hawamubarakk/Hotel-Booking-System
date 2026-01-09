@@ -37,11 +37,6 @@ The system allows **Admins** to manage rooms and bookings, and **Users** to book
 
 ---
 
-## Screenshots
-*(Optional: Add screenshots of login, admin menu, and user menu here)*
-
----
-
 ## Getting Started
 
 ### Prerequisites
